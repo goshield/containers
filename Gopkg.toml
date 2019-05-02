@@ -1,0 +1,5 @@
+ignored = ["github.com/onsi/ginkgo", "github.com/onsi/gomega"]
+
+[prune]
+  go-tests = true
+  unused-packages = true
